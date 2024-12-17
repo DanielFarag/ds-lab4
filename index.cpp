@@ -211,10 +211,12 @@ int main() {
     /**
                     SAMPLE OUTPUT
                     
-    Tree after insertion: 10 20 30 31 40 50 60 80 90 
-    Min: 10
-    Max: 90
-    Tree after removing 50: 10 20 30 31 40 60 80 90 
+            Tree after insertion: 
+            10 20 30 31 40 50 60 80 90 
+            Min: 10
+            Max: 90
+            Tree after removing 10, 30: 
+            20 31 40 50 60 80 90 
     */
 
     return 0;
