@@ -184,7 +184,7 @@ class BinaryTree{
 
 
         void remove(int x) {
-            head = deleteNode(head, x);
+            deleteNode(head, x);
         }
         
 };
